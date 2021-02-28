@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of hw04phayleymanke10 is to perform 2 different functions. 
+The goal of hw04phayleymanke10 is to perform 2 different functions: one to output an integer "n" and the other to create a plot based on values of x and n. 
 
 ## Installation
 
