@@ -6,11 +6,3 @@
 ## usethis namespace: start
 ## usethis namespace: end
 NULL
-## usethis namespace: start
-#' @importFrom tibble tibble
-## usethis namespace: end
-NULL
-## usethis namespace: start
-#' @importFrom ggplot2 ggplot aes geom_line
-## usethis namespace: end
-NULL

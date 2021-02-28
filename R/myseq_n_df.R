@@ -4,7 +4,7 @@
 #' @param n Integer
 #'
 #' @return
-#' @export
+#' @export myseq_n_df
 #'
 #' @examples
 myseq_n_df <- function(x, n) {
