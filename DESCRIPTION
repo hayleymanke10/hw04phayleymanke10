@@ -18,4 +18,5 @@ Language: en-US
 Imports: 
     ggplot2,
     magrittr
-
+URL: https://github.com/hayleymanke10/hw04phayleymanke10
+BugReports: https://github.com/hayleymanke10/hw04phayleymanke10/issues
