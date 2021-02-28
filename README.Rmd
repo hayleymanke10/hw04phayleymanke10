@@ -28,13 +28,8 @@ install.packages("../hw04phayleymanke10")
 
 GitHub ID: hayleymanke10
 
-## Example
 
-This is a basic example which shows you how to solve a common problem:
 
-```{r example}
-library(hw04phayleymanke10)
-## basic example code
-```
+
 
 
